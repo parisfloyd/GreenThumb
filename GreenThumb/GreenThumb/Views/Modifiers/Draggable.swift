@@ -1,18 +1,18 @@
 //
-//  GardenPlannerView.swift
+//  Draggable.swift
 //  GreenThumb
 //
-//  Created by Paris Floyd (Student) on 4/8/24.
+//  Created by Paris Floyd (Student) on 4/9/24.
 //
 
 import SwiftUI
 
-struct GardenPlannerView: View {
+struct Draggable: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    GardenPlannerView()
+    Draggable()
 }
